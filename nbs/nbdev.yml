@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sandbox"
+  site-url: "https://jakubjecha.github.io/sandbox"
+  description: "Sandbox projekt pro nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/jakubjecha/sandbox"
