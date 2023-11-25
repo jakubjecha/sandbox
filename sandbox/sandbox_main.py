@@ -4,5 +4,7 @@
 __all__ = ['foo']
 
 # %% ../nbs/00_sandbox_main.ipynb 4
-def foo():
-    print("qwdwqdwqqw")
+import math
+
+def foo(x):
+    return 40 * x
